@@ -29,8 +29,9 @@ For an Investor, it is pivotal to be aware of the potential risks with which the
 
 
 ## Steps Involved
+![insight1 drawio](https://github.com/haricharan189/Gatech-Fintech/assets/127864767/11373ddd-ae86-4c58-8066-1c46544c7901)
 
-![App Screenshot]('https://github.com/haricharan189/Gatech-Fintech/blob/main/Task%202/Insight%201/insight1.drawio.png')
+
 
 1. **Extraction**: As the risks associated vary from time to time, it makes sense to analyse the latest report to get an up-to-date insight. We use the Extractor API to scrape Section 1A of 2023 Report.
 
