@@ -69,4 +69,4 @@ b. **Positive Statements:** The steps followed for this analysis is the same as 
 
 
 ## APP
-We utilize KIVY, a cross-platform Python based application development framework to develop a very simple application that takes in a ticker to display the visualization needed. Kivy was chosen as it uses python and is simple to use compareed to other frameworks.
+We utilize KIVY, a cross-platform Python based application development framework to develop a very simple application that takes in a ticker to display the visualization needed. Kivy was chosen as it uses python and is simple to use compareed to other frameworks. Please download and view the local implementation of the app saved inside the App folder.
