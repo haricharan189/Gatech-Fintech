@@ -11,8 +11,8 @@ import matplotlib.pyplot as plt'''
 
 #extraction of 5 recent filings of AAPL at a time using query and extractor api
 
-queryApi = QueryApi(api_key="f5c7ffbbc22e823324ce7468d0f7f602715650023185f18986e2263437147cb2")
-extractorApi = ExtractorApi(api_key='f5c7ffbbc22e823324ce7468d0f7f602715650023185f18986e2263437147cb2')
+queryApi = QueryApi(api_key="")
+extractorApi = ExtractorApi(api_key='')
 
 base_query = {
   "query": "ticker:AAPL AND filedAt:[2019-01-01 TO 2023-12-31] AND formType:\"10-K\"",
