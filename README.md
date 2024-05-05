@@ -1,2 +1,1 @@
-# Gatech-Fintech
-Assignment part of the recruitment criteria for fintech lab of gatech.
+[README.md](https://github.com/haricharan189/Gatech-Fintech/files/15213888/README.md)
